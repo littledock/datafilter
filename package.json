@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/littledock/datafilter/issues"
   },
-  "homepage": "https://github.com/littledock/datafilter#readme"
+  "homepage": "https://github.com/littledock/datafilter#readme",
+  "devDependencies": {
+    "bluebird": "^3.5.3",
+    "csv-parser": "^2.1.0",
+    "fs-extra": "^7.0.1",
+    "minimist": "^1.2.0",
+    "node-xlsx": "^0.12.1",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "readline": "^1.0.1",
+    "replace-ext": "^1.0.0"
+  }
 }
